@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-hot-notes",
+	"name": "Hot Notes",
+	"version": "0.1.0",
+	"minAppVersion": "0.12.14",
+	"description": "Shows the \temperature\" of your Notes in Obsidian's iconic Graph View!",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md/about",
+	"isDesktopOnly": false
+}
